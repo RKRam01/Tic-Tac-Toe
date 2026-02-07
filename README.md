@@ -5,7 +5,6 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 ## ✨ Features
 - Two-player mode
 - Winner detection
-- Draw detection
 - Reset game option
 - Clean UI
 
@@ -19,4 +18,4 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## 👨‍💻 Author
-Rahul
+Rahul Kumar Ram
